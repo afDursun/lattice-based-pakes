@@ -1,4 +1,4 @@
-# Lattice-based PAKE Schemes
+# Smaug.PAKE for Mobile Devices 
 
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/afDursun/lattice-based-pakes?include_prereleases)](https://img.shields.io/github/v/release/afDursun/lattice-based-pakes?include_prereleases)
 [![GitHub last commit](https://img.shields.io/github/last-commit/afDursun/lattice-based-pakes)](https://img.shields.io/github/last-commit/afDursun/lattice-based-pakes)
