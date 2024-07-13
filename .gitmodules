@@ -1,0 +1,9 @@
+[submodule "smaug-pake-android-java"]
+	path = smaug-pake-android-java
+	url = https://github.com/afDursun/smaug-pake-android-java
+[submodule "smaug-pake-c-implementation"]
+	path = smaug-pake-c-implementation
+	url = https://github.com/afDursun/smaug-pake-c-implementation
+[submodule "generic-kyber-pake-c"]
+	path = generic-kyber-pake-c
+	url = https://github.com/afDursun/generic-kyber-pake-c
